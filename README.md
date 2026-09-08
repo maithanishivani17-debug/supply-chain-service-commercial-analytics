@@ -351,7 +351,7 @@ to direct improvement resources towards areas with the greatest potential busine
 
 ---
 
-## 15. Portfolio Skills Demonstrated
+### Portfolio Skills 
 
 This project demonstrates the ability to:
 
@@ -367,8 +367,4 @@ This project demonstrates the ability to:
 
 ---
 
-## Conclusion
 
-This project demonstrates an end-to-end approach to **Supply Chain and Commercial Analytics**, using SQL and Tableau to transform transactional data into management-level insights.
-
-> **Measure performance → Understand commercial exposure → Prioritise action → Support decisions**
