@@ -23,6 +23,28 @@ The analysis moves from:
 **Performance → Diagnosis → Commercial Exposure → Management Priorities**
 
 ---
+## Dataset
+
+This project uses the **DataCo SMART Supply Chain for Big Data Analysis** dataset.
+
+The dataset contains structured supply chain transaction data covering areas including provisioning, production, sales and commercial distribution. It includes information on orders, customers, products, sales, delivery status, shipping modes and geographic attributes.
+
+### Data Source
+
+The dataset is publicly available through Mendeley Data:
+
+[DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS – Mendeley Data](https://data.mendeley.com/datasets/8gx2fvg2k6/3)
+
+**Dataset version:** 3  
+
+**Published:** 12 March 2019  
+
+**DOI:** 10.17632/8gx2fvg2k6.3  
+
+**Licence:** CC BY 4.0
+
+The raw dataset is not included in this repository. The analysis notebook documents the data preparation, validation and SQL analysis performed on the dataset.
+
 ## Tableau Dashboards
 
 ### Executive Supply Chain Performance
