@@ -166,9 +166,13 @@ Management Priority Framework
 Tableau Dashboards
    ↓
 Business Recommendations
-The analysis combines:Operational Performance + Commercial Exposure to identify areas requiring management attention.
+```
 
----
+The analysis combines:
+
+**Operational Performance + Commercial Exposure**
+
+to identify areas requiring management attention.
 
 ---
 
