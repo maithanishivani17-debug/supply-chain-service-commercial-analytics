@@ -23,6 +23,16 @@ The analysis moves from:
 **Performance → Diagnosis → Commercial Exposure → Management Priorities**
 
 ---
+## Tableau Dashboards
+
+### Executive Supply Chain Performance
+
+![Executive Supply Chain Performance](Executive_Supply_Chain_Performance.png)
+
+### Management & Commercial Performance
+
+![Management & Commercial Performance](Management_Commercial_Performance.png)
+
 
 # Business Problem
 
